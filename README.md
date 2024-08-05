@@ -8,7 +8,7 @@
 		<h1>
 				👋 Hi
 		</h1> <br>
-	        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Yura-Yorces=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) <hr>
+	        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yura-Yorces)](https://github.com/anuraghazra/github-readme-stats) <hr>
 		<h2>
 				🐱 About Me 🐱
 		</h2>
