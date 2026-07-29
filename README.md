@@ -9,10 +9,10 @@
 				🐵 About Me 🐱
 		</h2>
 		<p>
-			Even tough i'm a male, 	i keep secret about my name and age, so don't ask me. <br>
+			Even though I'm a male, 	I keep my name and age, so don't ask me. <br>
 				i also only learn <strong>HTML </strong>and<strong> CSS</strong> right now
 				<li>Love: Anime, Codding</li>
-				<li>Hobby: Playing RetroGame. (Especially PsP game)</li>
+				<li>Hobby: Playing RetroGame. (Especially PSP games)</li>
 				<li>School: SMKN 1 Bekasi</li>
 		</p> <hr>
 		<h2>
